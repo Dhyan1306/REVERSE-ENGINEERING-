@@ -67,3 +67,4 @@ The circuit was evaluated in LTspice using the following transient analysis dire
 1.S.Dhyan
 2.Aditya DH 
 3.Aditya Devaki
+  .
